@@ -1,2 +1,2 @@
-https://github.com/2303A52465/23CSBTB50/blob/main/Assignment_1.ipynb
-https://github.com/2303A52465/23CSBTB50/blob/main/Assignment_2.ipynb
+https://colab.research.google.com/drive/1UyZ2Nv8U5G4h8HXSkx3aWwYM-r5RCYyD
+https://colab.research.google.com/drive/1zPuhhcvcVyQBTSlcW44YOPkihjvLt11m#scrollTo=Z7Elcorx5Hal
